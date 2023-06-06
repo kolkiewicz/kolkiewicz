@@ -9,12 +9,11 @@
 
 <p align="left">
 
-- 🐣 &nbsp; Aspiring Data Engineer / Software Developer
+- 🐣 &nbsp; Junior DevOps Engineer
 
-- 📚 &nbsp; Currently learning to code <b>@Northcoders</b>
+- 📚 &nbsp; <b>@Northcoders</b> graduate
 
 - 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/klaudia-olkiewicz/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
-- 🚀 &nbsp; <em><b> Open to Hire </b></em>
 </p>
 
 <br>
